@@ -1,0 +1,587 @@
+[
+    {
+        "score": 0.9086477,
+        "show": {
+            "id": 590,
+            "url": "https://www.tvmaze.com/shows/590/pokemon",
+            "name": "Pokémon",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Adventure",
+                "Anime",
+                "Fantasy"
+            ],
+            "status": "Running",
+            "runtime": 30,
+            "averageRuntime": 25,
+            "premiered": "1997-04-01",
+            "ended": null,
+            "officialSite": "https://www.tv-tokyo.co.jp/anime/pocketmonster/",
+            "schedule": {
+                "time": "18:55",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": 7.8
+            },
+            "weight": 97,
+            "network": {
+                "id": 76,
+                "name": "TV Tokyo",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 31,
+                "thetvdb": 76703,
+                "imdb": "tt0168366"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/459/1148947.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1148947.jpg"
+            },
+            "summary": "<p>The great adventures of 10 year old Ash Ketchum, a young <b>Pokémon</b> Trainer from Pallet Town, as well as his best friend and everlasting companion Pikachu. Together, they venture through many regions: the traditional region of Kanto, the culturally rich Johto, the temperate region of Hoenn, the mystical region of Sinnoh, the advanced landscapes of Unova, Kalos, with it's many landmarks, the splendor of the tropics of Alola, and the expansive Galar. Along the way, they meet many new companions, many new friends and new rivals, while also competing in each regional league; as well as toppling evil organizations, and outsmarting the pesky and persistent Team Rocket. However, through all this, Ash's goal remains unchanged: to discover many new Pokémon, and to become regarded as the world's greatest Pokémon Master.</p>",
+            "updated": 1720841485,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/590"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2937822",
+                    "name": "The Mascot Pokémon Is Kingambit?!"
+                },
+                "nextepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2937823",
+                    "name": "Dance, Quaxly! Dance the Blue Medali Dance!!"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.689463,
+        "show": {
+            "id": 5726,
+            "url": "https://www.tvmaze.com/shows/5726/pokemon-chronicles",
+            "name": "Pokémon Chronicles",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Anime",
+                "Fantasy"
+            ],
+            "status": "Ended",
+            "runtime": 20,
+            "averageRuntime": 20,
+            "premiered": "2006-06-03",
+            "ended": "2006-11-25",
+            "officialSite": null,
+            "schedule": {
+                "time": "19:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": 7.8
+            },
+            "weight": 73,
+            "network": {
+                "id": 11,
+                "name": "Cartoon Network",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 72975,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/258/645447.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/258/645447.jpg"
+            },
+            "summary": "<p><b>Pokémon Chronicles </b>is a TV series comprised of the English-dubbed versions of a number of Pokémon TV specials. Many of the episodes are from the Weekly Pokémon Broadcasting Station show in Japan, but it also contained The Legend of Thunder! and shorts from the Pikachu's Winter Vacation series. The series, in each episode, basically focuses on the lives of the many of the recurring/main characters Ash Ketchum met on his journey, like Sakura, Misty, her sisters, Casey, and Tracey. Ash only makes two appearances in the series in brief cameos</p>",
+            "updated": 1590370253,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/5726"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1870977",
+                    "name": "Pikachu's Winter Vacation"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6844127,
+        "show": {
+            "id": 57326,
+            "url": "https://www.tvmaze.com/shows/57326/pokemon-evolutions",
+            "name": "Pokémon Evolutions",
+            "type": "Animation",
+            "language": null,
+            "genres": [],
+            "status": "Ended",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": "2021-09-09",
+            "ended": "2021-12-23",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 41,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 409490,
+                "imdb": "tt15356258"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/353/884516.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/353/884516.jpg"
+            },
+            "summary": "<p>The Pokémon world has a wide variety of regions filled with interesting people and wonderful Pokémon. <b>Pokémon Evolutions</b>, a new, limited animated series, will take you on a tour of the regions that have been explored in the core Pokémon video game series.</p>",
+            "updated": 1640772779,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/57326"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2160958",
+                    "name": "The Discovery"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6779252,
+        "show": {
+            "id": 21083,
+            "url": "https://www.tvmaze.com/shows/21083/pokemon-generations",
+            "name": "Pokémon Generations",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Anime"
+            ],
+            "status": "Ended",
+            "runtime": 3,
+            "averageRuntime": 3,
+            "premiered": "2016-09-16",
+            "ended": "2016-12-23",
+            "officialSite": "https://www.youtube.com/user/pokemon",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 57,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 316998,
+                "imdb": "tt6071336"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/74/186102.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/74/186102.jpg"
+            },
+            "summary": "<p><b>Pokémon Generations</b> looks back at each generation of the Pokémon video game series, diving into the stories of the games more deeply and getting to know characters and Pokémon better. Visit each region, from Kanto to Kalos, to relive the world of Pokémon like never before!</p>",
+            "updated": 1482848227,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/21083"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/954374",
+                    "name": "The Redemption"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.66826266,
+        "show": {
+            "id": 5728,
+            "url": "https://www.tvmaze.com/shows/5728/pokemon-origins",
+            "name": "Pokémon Origins",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Anime",
+                "Fantasy"
+            ],
+            "status": "Ended",
+            "runtime": 27,
+            "averageRuntime": 27,
+            "premiered": "2013-10-02",
+            "ended": "2013-10-02",
+            "officialSite": null,
+            "schedule": {
+                "time": "19:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": 6.9
+            },
+            "weight": 48,
+            "network": {
+                "id": 76,
+                "name": "TV Tokyo",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 38200,
+                "thetvdb": 273616,
+                "imdb": "tt3218680"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/148/370639.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/148/370639.jpg"
+            },
+            "summary": "<p><b>Pokémon Origins</b> follows Red in his journey through the region of Kanto in his attempt to complete his \"Pokédex\" by capturing and cataloging all the Pokémon that exist. Along the way he'll discover there's more to himself and his goals than he originally thought. Red will have to put both himself and his Pokémon to the test in special Gyms whose leaders are steps along the way to the Pokémon League, in order to challenge the Elite Four and become a Pokémon League Champion.<br /><br />Aside from his goals to become a Champion, Red has other problems brewing. There are others who capture and train Pokémon for more sinister reasons, with the infamous criminal organization Team Rocket being one of them. If Red can defeat them, fellow trainers, his rival Green, and wild Pokémon all through Kanto, he just may fulfill his own dream, and Doctor Ookido's as well.</p>",
+            "updated": 1717408151,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/5728"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/344476",
+                    "name": "Charizard"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6635311,
+        "show": {
+            "id": 67218,
+            "url": "https://www.tvmaze.com/shows/67218/pokemon-concierge",
+            "name": "Pokémon Concierge",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Comedy",
+                "Adventure"
+            ],
+            "status": "Running",
+            "runtime": null,
+            "averageRuntime": 18,
+            "premiered": "2023-12-28",
+            "ended": null,
+            "officialSite": "https://www.netflix.com/title/81186864",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": 7.5
+            },
+            "weight": 44,
+            "network": null,
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null,
+                "officialSite": "https://www.netflix.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 431703,
+                "imdb": "tt26916286"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/496/1241696.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/496/1241696.jpg"
+            },
+            "summary": "<p>Welcome to Pokémon Resort, a peaceful getaway for Pokémon to relax and have fun. Which guest will the new concierge Haru befriend and help first?</p>",
+            "updated": 1708479701,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/67218"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2723968",
+                    "name": "Welcome to the Pokémon Resort!"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5737363,
+        "show": {
+            "id": 45452,
+            "url": "https://www.tvmaze.com/shows/45452/pokemon-twilight-wings",
+            "name": "Pokemon: Twilight Wings",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Adventure",
+                "Anime",
+                "Children"
+            ],
+            "status": "Running",
+            "runtime": 6,
+            "averageRuntime": 6,
+            "premiered": "2020-01-15",
+            "ended": null,
+            "officialSite": "https://www.youtube.com/playlist?list=PLQWzKIaERirwfvHB3m8CjnTK6ZzNA8wvJ",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 43,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 373770,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/258/645736.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/258/645736.jpg"
+            },
+            "summary": "<p>Galar is a region where Pokémon battles have developed into a cultural sensation. Over the span of seven episodes, <b>Pokémon: Twilight Wings</b> will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokémon originally discovered in the Galar region appearing in the capsule series.</p>",
+            "updated": 1674652107,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/45452"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2478480",
+                    "name": "The Gathering of Stars"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.4855364,
+        "show": {
+            "id": 70552,
+            "url": "https://www.tvmaze.com/shows/70552/pokemon-path-to-the-peak",
+            "name": "Pokémon: Path to the Peak",
+            "type": "Animation",
+            "language": "English",
+            "genres": [],
+            "status": "To Be Determined",
+            "runtime": null,
+            "averageRuntime": 11,
+            "premiered": "2023-08-11",
+            "ended": null,
+            "officialSite": "https://watch.pokemon.com/en-gb/#/season?id=pokemon-path-to-the-peak",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 28,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 438198,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/472/1180889.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/472/1180889.jpg"
+            },
+            "summary": "<p>Ava feels out of place at her new school until she discovers the Pokémon Trading Card Game in this four-part animated series.</p>",
+            "updated": 1693432576,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/70552"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2619334",
+                    "name": "Worlds"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.40257794,
+        "show": {
+            "id": 62069,
+            "url": "https://www.tvmaze.com/shows/62069/pokemon-legends-arceus-yuki-hodo-kishi-futaai",
+            "name": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Anime"
+            ],
+            "status": "Ended",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": "2022-05-18",
+            "ended": "2022-06-22",
+            "officialSite": "https://www.pokemon.co.jp/ex/legends_arceus/ja/sp_anime/",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 28,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 419457,
+                "imdb": "tt19848562"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/408/1021846.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/408/1021846.jpg"
+            },
+            "summary": "<p>The anime tells the story of a boy named Akio and his encounter with a Hisuian Zorua. When he was younger, Akio's father taught him that people and Pokémon cannot live together. But Akio's interactions with the Zorua might offer a different lesson.</p>",
+            "updated": 1655907839,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/62069"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2328522",
+                    "name": "Two Hues"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.3859382,
+        "show": {
+            "id": 75354,
+            "url": "https://www.tvmaze.com/shows/75354/pocket-monster-kami-to-yobareshi-arceus",
+            "name": "Pocket Monster: Kami to Yobareshi Arceus",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 18,
+            "averageRuntime": 18,
+            "premiered": "2022-01-21",
+            "ended": "2022-01-28",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 4,
+            "network": null,
+            "webChannel": {
+                "id": 3,
+                "name": "Prime Video",
+                "country": null,
+                "officialSite": "https://www.primevideo.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 415119,
+                "imdb": "tt21970564"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/508/1271726.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/508/1271726.jpg"
+            },
+            "summary": "<p>While investigating the legend of the mythical Pokémon Arceus, Ash, Goh and Dawn uncover a plot by Team Galactic that threatens the world.</p>",
+            "updated": 1710439899,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/75354"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2797201",
+                    "name": "Miraculous Radiance! The Legend of Sinnoh!"
+                }
+            }
+        }
+    }
+]
